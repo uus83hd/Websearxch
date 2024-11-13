@@ -1,0 +1,3 @@
+En la carpeta Templates se encuentra la interfaz, lo de mas son componentes de búsqueda. 
+
+IA example es una ia dentro de el navegador para ser mas rapido.
